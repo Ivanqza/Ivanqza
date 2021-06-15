@@ -1,6 +1,6 @@
 ### Hi there, I'm Ivan - aka [Ivanqza][website] 👋
 
-[![Website](https://img.shields.io/website?label=Ivanqza.com&style=for-the-badge&url=https%3A%2F%2FIvanqza)](https://www.instagram.com/ivanqza/)
+[![Website](https://img.shields.io/website?label=My Instagram&style=for-the-badge&url=https%3A%2F%2FIvanqza)](https://www.instagram.com/ivanqza/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ivanqza?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fivanqza&screen_name=ivanqza)
 
 ## I'm a future software developer!!
