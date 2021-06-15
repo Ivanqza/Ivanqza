@@ -13,7 +13,7 @@
 
 ### Spotify Playlist 🎧
 
-[<img src="https://e7.pngegg.com/pngimages/420/432/png-clipart-spotify-logo-spotify-computer-icons-podcast-music-apps-miscellaneous-angle.png" alt="Ivan Mitev Spotify Playing" width="350" />](https://open.spotify.com/user/ivanqza?si=7d3bae34d2824b56)
+[<img src="https://e7.pngegg.com/pngimages/420/432/png-clipart-spotify-logo-spotify-computer-icons-podcast-music-apps-miscellaneous-angle.png" alt="Ivan Mitev Spotify Playing" width="150" />](https://open.spotify.com/user/ivanqza?si=7d3bae34d2824b56)
 
 ### Connect with me:
 
