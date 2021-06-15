@@ -1,4 +1,4 @@
-### Hi there, I'm Ivan - aka [Ivanqza][website] 👋
+### Hi there, I'm Ivan - aka Ivanqza 👋
 
 [![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2FIvanqza)](https://www.instagram.com/ivanqza/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ivanqza?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fivanqza&screen_name=ivanqza)
