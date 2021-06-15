@@ -11,7 +11,7 @@
 - 🥅 My 2021 goals: Learning as much as possible and eventually become an junior software developer
 - ⚡ Fun fact: I love to travel, play video games and listen to music
 
-### Spotify Playing 🎧
+### Spotify Playlist 🎧
 
 [<img src="https://now-playing-ivanqza.vercel.app/api/spotify-playing" alt="Ivan Mitev Spotify Playing" width="350" />](https://open.spotify.com/user/ivanqza?si=7d3bae34d2824b56)
 
