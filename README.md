@@ -8,7 +8,7 @@
 - 🔭 I'm a Business and Economics bachelor with a masters degree in International Business!
 - 👀 I’m interested in gaming, sports, PC building and all kinds of tech
 - 🌱 I’m currently learning everything Python related 🤣
-- 🥅 My 2021 goals: Learning as much as possible and eventually become an junior software developer
+- 🥅 My 2021 goals: Learning as much as possible and eventually become a junior software developer
 - ⚡ Fun fact: I love to travel, play video games and listen to music
 
 ### Spotify Playlist 🎧
